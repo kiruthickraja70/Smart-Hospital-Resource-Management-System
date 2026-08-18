@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Hospital Resource Management System
 
 A full-stack MERN application for managing hospital resources including patients, doctors, appointments, beds, prescriptions, and analytics with real-time updates.
@@ -186,3 +187,7 @@ Serve the `frontend/dist` folder with any static host and point `CLIENT_URL` to 
 ## License
 
 MIT
+=======
+# Smart-Hospital-Resource-Management-System
+Smart Hospital Resource Management System is a MERN stack application that manages patients, doctors, appointments, beds, and ambulances with real-time updates, secure authentication, and an admin dashboard to improve hospital efficiency and patient care.
+>>>>>>> 90b96bfd15c37e8fce5058fc5382d67bd021072b
